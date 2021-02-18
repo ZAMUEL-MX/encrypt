@@ -20,7 +20,7 @@
 
 1. Pindahkan file yang mau di encrypt ke luar folder dulu tod
 
-2. klo udh pilih encrypt 
+2. klo udh masuk ke termux lagi pilih encryptnya
 
 3. Masukan file ketik /sdcard/namafile gitu doank gk tau
 
