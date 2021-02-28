@@ -10,7 +10,7 @@
 
 • pkg install nano (untuk melihat script bila diperlukan)
 
-• git clone https://github.com/ZAMUEL-MX/encrypt
+• git clone https://github.com/zamxyz/encrypt
 
 • cd encrypt
 
