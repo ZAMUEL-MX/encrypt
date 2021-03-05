@@ -1,3 +1,5 @@
+# **_*SCRYPT ENCRYPT FILE*_**
+
 # COMMAND
 
 • pkg update && pkg upgrade
